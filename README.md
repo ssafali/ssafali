@@ -11,7 +11,7 @@ Thanks for stopping by!
 
 
 ## Contact
-Email: safaksafali@gmail.com
+Email: safaksafali@gmail.com  
 LinkedIn: [Safak Safali](https://www.linkedin.com/in/safak-safali/)
 
 
