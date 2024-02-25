@@ -9,8 +9,6 @@ Feel free to check out my portfolio below to see some of my work. If you have an
 
 Thanks for stopping by!
 
-## Portfolio
-[Personal Website](https://safaksafali.com/)
 
 ## Contact
 Email: safaksafali@gmail.com
