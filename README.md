@@ -5,7 +5,7 @@ I'm a web developer with a passion for creating engaging and interactive website
 
 I'm constantly pushing myself to make better websites and applications that are both user friendly and aesthetically pleasing.
 
-Feel free to check out my portfolio below to see some of my work. If you have any questions, don't hesitate to connect with me on LinkedIn or reach out via email.
+If you have any questions, don't hesitate to connect with me on LinkedIn or reach out via email.
 
 Thanks for stopping by!
 
